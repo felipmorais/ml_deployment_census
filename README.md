@@ -67,7 +67,7 @@ sudo apt install python3-pip
 ```
 
 ```commandline
-sudo apt install python3.10-venv
+sudo apt install python3.12-venv
 ```
 
 ## Para deixar o sistema rodando, usar screen (console virtual)
