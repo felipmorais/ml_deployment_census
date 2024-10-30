@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # ml_deployment_census
 
-=======
->>>>>>> d7947cdd4c11e9624ba7961b200c1aa28eae10ab
 ## Descrição geral do projeto ML Deployment
 
 Este projeto visa realizar a implantação de um modelo de ML em produção, ou seja, em um servidor dedicado que poderá responder solicitações de usuários na internet por meio de um web browser.
